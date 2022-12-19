@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/104552234/208289569-840536df-dcac-4caa-a580-058f5667a20a.png)
 
 ## Table of Contents
-0. [Website](#website)
+0. [Links](#links)
 1. [Abstract](#abstract)
 2. [Key Concept](#keyconcept)
 3. [Account Abstraction](#aa)
@@ -16,11 +16,23 @@
 9. [Methodology and Functionality](#methodfunction)
 10. [Architecture](#architecture) 
 
-## Website <a name="website"></a>
+## Links <a name="links"></a>
 
 ![](https://lh5.googleusercontent.com/jCWqRkskqIszwUw1JAeo95xNsE8kq7t3Gkg-hQgh5v6ZSSSI221kP0m-vwyYEjEmWVDnKlBIHwQiah_0esrebsRE6zUuzwWzkq2oyrjymfSXc4J44M9tyEq7ttUsugphy9bV09Nu4F7c13zVlvmtGEkMopfR3C7Dflycaf8FC-N1L3gygTj4--61AXQ)
 
-Demo : [https://r3plica-web.vercel.app/](https://r3plica-web.vercel.app/)
+Website : https://r3plica-web.vercel.app
+
+Game Client: https://github.com/catze-labs/r3plica-unity-public
+
+Game Server: PlayFab
+
+Front-end: https://github.com/catze-labs/r3plica-web
+
+Back-end: https://github.com/catze-labs/r3plica-server
+
+Blockchain: bnb-chain/BEPs#179
+
+Protocol: https://github.com/catze-labs/futureSBT
 
 ## Abstract <a name="abstract"></a>
 r3plica is an SDK that uses fSBT to enable transactions to be used as n times as specified in the Smart Contract. The primary goal of the r3plica SDK is to provide users with complete data ownership over their assets and experiences. One of the biggest obstacles preventing gamers from trying blockchain games is Web3 accounts and their lack of understanding of the Web3 ecosystem.
@@ -219,7 +231,7 @@ Additionally, fSBT can function as a device to limit user behavior, similar to a
 
 ![](https://lh6.googleusercontent.com/jAKmuHailDii35mvHOfcTbiGsJXIFGEMxxdO-Mahpd_VXuF9gxbHsoIXVmCG5KcMpVljp50772BJ3bNBTVeJBR0HRtNV9mT3THnIE1PHvDHn_y5aIj51fHQuQ4P3BUV9s9g1nuBf6dNV4ekNdrpDL9S3zvQjpYMzyMjODyNG4C5mIOzXoj5ey1cAR44)
 
-The implementation of the r3plica SDK can be largely divided into five areas.
+The implementation of the r3plica SDK can be largely divided into six areas.
 
 -   Game Client: [https://github.com/catze-labs/r3plica-unity-public](https://github.com/catze-labs/r3plica-unity-public)
     
