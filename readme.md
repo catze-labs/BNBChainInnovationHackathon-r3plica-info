@@ -271,7 +271,7 @@ Each specific implementation method is described in each repo.
 - Role : Frontend engineer working in Catze Labs.
 - Univ : Seoul Nat'l university of Science & Technology. Bachelor of Computer engineering.
 - Twitter : [https://twitter.com/aiiiden0](https://twitter.com/aiiiden0)
-- Linked in : [https://www.linkedin.com/in/jin-baek-hong-0003321ba/](https://www.linkedin.com/in/jin-baek-hong-0003321ba/)
+- LinkedIn : [https://www.linkedin.com/in/jin-baek-hong-0003321ba/](https://www.linkedin.com/in/jin-baek-hong-0003321ba/)
 - GitHub : [https://github.com/aiiiden](https://github.com/aiiiden)
 
 ### Thon (Woo chang Son)
@@ -282,7 +282,7 @@ Each specific implementation method is described in each repo.
 
 ### Philip(Mingyun Chae)
 - Role : PM & DEV
-- Twitter: [https://twitter.com/mg_nomad](https://twitter.com/mg_nomad)
-- nomadlist: [https://nomadlist.com/@mgmgmg](https://nomadlist.com/@mgmgmg)
-- LinkedIn: [https://www.linkedin.com/in/min-gyun-chae-463281112/](https://www.linkedin.com/in/min-gyun-chae-463281112/)
-- Liked: Travel
+- Twitter : [https://twitter.com/mg_nomad](https://twitter.com/mg_nomad)
+- nomadlist : [https://nomadlist.com/@mgmgmg](https://nomadlist.com/@mgmgmg)
+- LinkedIn : [https://www.linkedin.com/in/min-gyun-chae-463281112/](https://www.linkedin.com/in/min-gyun-chae-463281112/)
+- Liked : Travel
