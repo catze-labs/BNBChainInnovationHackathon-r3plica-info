@@ -1,7 +1,7 @@
 # BNB Chain Innovation Hackathon
 # r3plica: Mirror Your Gaming Soul
 
-![](https://lh5.googleusercontent.com/jCWqRkskqIszwUw1JAeo95xNsE8kq7t3Gkg-hQgh5v6ZSSSI221kP0m-vwyYEjEmWVDnKlBIHwQiah_0esrebsRE6zUuzwWzkq2oyrjymfSXc4J44M9tyEq7ttUsugphy9bV09Nu4F7c13zVlvmtGEkMopfR3C7Dflycaf8FC-N1L3gygTj4--61AXQ)
+![image](https://user-images.githubusercontent.com/104552234/208289569-840536df-dcac-4caa-a580-058f5667a20a.png)
 
 ## Table of Contents
 0. [Website](#website)
