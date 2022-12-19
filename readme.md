@@ -20,7 +20,7 @@
 
 ![](https://lh5.googleusercontent.com/jCWqRkskqIszwUw1JAeo95xNsE8kq7t3Gkg-hQgh5v6ZSSSI221kP0m-vwyYEjEmWVDnKlBIHwQiah_0esrebsRE6zUuzwWzkq2oyrjymfSXc4J44M9tyEq7ttUsugphy9bV09Nu4F7c13zVlvmtGEkMopfR3C7Dflycaf8FC-N1L3gygTj4--61AXQ)
 
-Our BEP-179 is live! : https://github.com/bnb-chain/BEPs/pull/179
+# Our BEP-179 is live! : https://github.com/bnb-chain/BEPs/pull/179
 
 Website : https://r3plica-web.vercel.app
 
@@ -248,3 +248,41 @@ The implementation of the r3plica SDK can be largely divided into six areas.
 -  Protocol: [https://github.com/catze-labs/futureSBT](https://github.com/catze-labs/futureSBT)  
 
 Each specific implementation method is described in each repo.
+
+
+## Team
+
+### Phantola Jang (Jang Young jin)
+
+- Role : BE dev in Catze Labs
+- Univ : Seoul National Univ. of Science and Tech
+- Twitter : @phantola_dev
+- linkedIn :[https://www.linkedin.com/in/phantola/](https://www.linkedin.com/in/phantola/)
+- Github :[github.com/phantola](https://github.com/Phantola)
+
+### Erick You (EK)
+
+- Role : Smart contract Developer
+- Twitter : [https://twitter.com/JustDoEK](https://twitter.com/JustDoEK)
+- Linkedin : [https://www.linkedin.com/in/you-erick-818972234/](https://www.linkedin.com/in/you-erick-818972234/)
+- Liked : Snowboarding
+
+### Aiiiden Hong (Hong Jin Baek)
+- Role : Frontend engineer working in Catze Labs.
+- Univ : Seoul Nat'l university of Science & Technology. Bachelor of Computer engineering.
+- Twitter : [https://twitter.com/aiiiden0](https://twitter.com/aiiiden0)
+- Linked in : [https://www.linkedin.com/in/jin-baek-hong-0003321ba/](https://www.linkedin.com/in/jin-baek-hong-0003321ba/)
+- GitHub : [https://github.com/aiiiden](https://github.com/aiiiden)
+
+### Thon (Woo chang Son)
+- Role : Unity client dev in Catze Labs
+- Email : wooson0308@gmail.com
+- Telegram : thon0308
+- Liked : Game play and develop
+
+### Philip(Mingyun Chae)
+- Role : PM & DEV
+- Twitter: [https://twitter.com/mg_nomad](https://twitter.com/mg_nomad)
+- nomadlist: [https://nomadlist.com/@mgmgmg](https://nomadlist.com/@mgmgmg)
+- LinkedIn: [https://www.linkedin.com/in/min-gyun-chae-463281112/](https://www.linkedin.com/in/min-gyun-chae-463281112/)
+- Liked: Travel
