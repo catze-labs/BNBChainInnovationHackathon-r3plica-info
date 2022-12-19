@@ -20,6 +20,8 @@
 
 ![](https://lh5.googleusercontent.com/jCWqRkskqIszwUw1JAeo95xNsE8kq7t3Gkg-hQgh5v6ZSSSI221kP0m-vwyYEjEmWVDnKlBIHwQiah_0esrebsRE6zUuzwWzkq2oyrjymfSXc4J44M9tyEq7ttUsugphy9bV09Nu4F7c13zVlvmtGEkMopfR3C7Dflycaf8FC-N1L3gygTj4--61AXQ)
 
+Our BEP-179 is live! : https://github.com/bnb-chain/BEPs/pull/179
+
 Website : https://r3plica-web.vercel.app
 
 Game Client: https://github.com/catze-labs/r3plica-unity-public
