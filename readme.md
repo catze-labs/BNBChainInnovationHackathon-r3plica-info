@@ -256,7 +256,7 @@ Each specific implementation method is described in each repo.
 
 - Role : BE dev in Catze Labs
 - Univ : Seoul National Univ. of Science and Tech
-- Twitter : @phantola_dev
+- Twitter : [https://twitter.com/phantola_dev](https://twitter.com/phantola_dev)
 - linkedIn :[https://www.linkedin.com/in/phantola/](https://www.linkedin.com/in/phantola/)
 - Github :[github.com/phantola](https://github.com/Phantola)
 
