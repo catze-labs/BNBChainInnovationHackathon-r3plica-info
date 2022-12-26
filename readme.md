@@ -284,5 +284,5 @@ Each specific implementation method is described in each repo.
 - Role : PM & DEV
 - Twitter : [https://twitter.com/mg_nomad](https://twitter.com/mg_nomad)
 - nomadlist : [https://nomadlist.com/@mgmgmg](https://nomadlist.com/@mgmgmg)
-- LinkedIn : [https://www.linkedin.com/in/min-gyun-chae-463281112/](https://www.linkedin.com/in/min-gyun-chae-463281112/)
+- LinkedIn : [https://www.linkedin.com/in/philip-nomad/](https://www.linkedin.com/in/philip-nomad/)
 - Liked : Travel
