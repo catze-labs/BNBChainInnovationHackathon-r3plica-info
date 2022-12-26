@@ -282,7 +282,7 @@ Each specific implementation method is described in each repo.
 
 ### Philip (Mingyun Chae)
 - Role : PM & DEV
-- Twitter : [https://twitter.com/mg_nomad](https://twitter.com/mg_nomad)
+- Twitter : [https://twitter.com/philip_nomad](https://twitter.com/philip_nomad)
 - nomadlist : [https://nomadlist.com/@mgmgmg](https://nomadlist.com/@mgmgmg)
 - LinkedIn : [https://www.linkedin.com/in/philip-nomad/](https://www.linkedin.com/in/philip-nomad/)
 - Liked : Travel
