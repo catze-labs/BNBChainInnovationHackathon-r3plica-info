@@ -1,4 +1,8 @@
 # BNB Chain Innovation Hackathon
+
+> 🎉 r3plica won 2nd place in Track #1: The Road towards Decentralized Society at BNB Chain Innovation Hackathon. 🎉  
+> https://dorahacks.io/hackathon/klaymakers22/
+
 # r3plica: Mirror Your Gaming Soul
 
 ![image](https://user-images.githubusercontent.com/104552234/208289569-840536df-dcac-4caa-a580-058f5667a20a.png)
