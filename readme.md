@@ -259,10 +259,10 @@ Each specific implementation method is described in each repo.
 ### Phantola Jang (Jang Young jin)
 
 - Role : BE dev in Catze Labs
-- Univ : Seoul National Univ. of Science and Tech
-- Twitter : [https://twitter.com/phantola_dev](https://twitter.com/phantola_dev)
-- linkedIn :[https://www.linkedin.com/in/phantola/](https://www.linkedin.com/in/phantola/)
-- Github :[github.com/phantola](https://github.com/Phantola)
+- Univ : Seoul Nat'l university of Science & Technology. Bachelor of Computer engineering.
+- Twitter : [https://twitter.com/phantola_dev](https://x.com/vincent_J_dev)
+- linkedIn : [https://www.linkedin.com/in/phantola/](https://www.linkedin.com/in/vincentjang/)
+- Github : [github.com/phantola](https://github.com/JangVincent)
 
 ### Erick You (EK)
 
